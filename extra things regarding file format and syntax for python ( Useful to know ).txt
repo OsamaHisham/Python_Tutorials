@@ -1,0 +1,12 @@
+1. When defining a function it is always better to leave 2 lines after it.
+    --- E.g :
+    def func(x=1):
+        return x ** 2
+    ( 1st space line )
+    ( 2nd space line )
+    call = func()
+    print(call)
+
+ 2. Basically any values like a string or any number when applied to a condition is == to True
+ in boolean while only ( False ) and ( 0 ) will return a False answer for boolean operations
+
