@@ -10,3 +10,4 @@
  2. Basically any values like a string or any number when applied to a condition is == to True
  in boolean while only ( False ) and ( 0 ) will return a False answer for boolean operations
 
+
