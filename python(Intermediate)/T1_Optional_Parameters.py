@@ -66,4 +66,3 @@ class car(object):
 whip = car('Ford', 'Fusion', 2012)    # --- Here only the parameters (make), (model), (year) where defined as the rest are optional parameters
 whip.display()    # --- For the display function it has just one parameter that is an optional parameter so nothing was writen while calling it
 whip.display(False)    # --- I changed the optional parameter set, from the value of ( True ) to be ( False )
-
