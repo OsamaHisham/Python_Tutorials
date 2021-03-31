@@ -10,4 +10,23 @@
  2. Basically any values like a string or any number when applied to a condition is == to True
  in boolean while only ( False ) and ( 0 ) will return a False answer for boolean operations
 
+3. Printing strings on multiple lines can make text more readable to humans. With multiple lines,
+strings can be grouped into clean and orderly text, formatted as a letter, or used to maintain the linebreaks of a poem or song lyrics.
+To create strings that span multiple lines, triple single quotes ''' or triple double quotes """ are used to enclose the string.
+--- E.g (1) ---
+'''
+This string is on
+multiple lines
+within three single
+quotes on either side.
+'''
+ --- E.g (2) ---
+"""
+This string is on
+multiple lines
+within three double
+quotes on either side.
+"""
+
+4.
 
