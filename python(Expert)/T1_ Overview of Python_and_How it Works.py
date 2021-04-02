@@ -139,3 +139,4 @@ print(inspect.getsource(new_func))
     [1] the .getmembers gives you a variety of information that you can use as well as the location for each one of them.
     [2] .getsource provides you with the source code for whatever you want.
 '''
+
